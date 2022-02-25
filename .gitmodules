@@ -1,0 +1,3 @@
+[submodule "csharp-examples"]
+	path = csharp-examples
+	url = https://github.com/gabrielfaraday/csharp-examples
