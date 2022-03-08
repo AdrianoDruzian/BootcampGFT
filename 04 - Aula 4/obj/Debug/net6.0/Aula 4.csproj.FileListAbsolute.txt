@@ -1,0 +1,15 @@
+C:\BootcampGFT\BootcampGFT\04 - Aula 4\bin\Debug\net6.0\Aula 4.exe
+C:\BootcampGFT\BootcampGFT\04 - Aula 4\bin\Debug\net6.0\Aula 4.deps.json
+C:\BootcampGFT\BootcampGFT\04 - Aula 4\bin\Debug\net6.0\Aula 4.runtimeconfig.json
+C:\BootcampGFT\BootcampGFT\04 - Aula 4\bin\Debug\net6.0\Aula 4.dll
+C:\BootcampGFT\BootcampGFT\04 - Aula 4\bin\Debug\net6.0\Aula 4.pdb
+C:\BootcampGFT\BootcampGFT\04 - Aula 4\obj\Debug\net6.0\Aula 4.csproj.AssemblyReference.cache
+C:\BootcampGFT\BootcampGFT\04 - Aula 4\obj\Debug\net6.0\Aula 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampGFT\BootcampGFT\04 - Aula 4\obj\Debug\net6.0\Aula 4.AssemblyInfoInputs.cache
+C:\BootcampGFT\BootcampGFT\04 - Aula 4\obj\Debug\net6.0\Aula 4.AssemblyInfo.cs
+C:\BootcampGFT\BootcampGFT\04 - Aula 4\obj\Debug\net6.0\Aula 4.csproj.CoreCompileInputs.cache
+C:\BootcampGFT\BootcampGFT\04 - Aula 4\obj\Debug\net6.0\Aula 4.dll
+C:\BootcampGFT\BootcampGFT\04 - Aula 4\obj\Debug\net6.0\refint\Aula 4.dll
+C:\BootcampGFT\BootcampGFT\04 - Aula 4\obj\Debug\net6.0\Aula 4.pdb
+C:\BootcampGFT\BootcampGFT\04 - Aula 4\obj\Debug\net6.0\Aula 4.genruntimeconfig.cache
+C:\BootcampGFT\BootcampGFT\04 - Aula 4\obj\Debug\net6.0\ref\Aula 4.dll

@@ -1,0 +1,15 @@
+C:\BootcampGFT\BootcampGFT\04 - Value Types e Reference Types\bin\Debug\net6.0\Demos.exe
+C:\BootcampGFT\BootcampGFT\04 - Value Types e Reference Types\bin\Debug\net6.0\Demos.deps.json
+C:\BootcampGFT\BootcampGFT\04 - Value Types e Reference Types\bin\Debug\net6.0\Demos.runtimeconfig.json
+C:\BootcampGFT\BootcampGFT\04 - Value Types e Reference Types\bin\Debug\net6.0\Demos.dll
+C:\BootcampGFT\BootcampGFT\04 - Value Types e Reference Types\bin\Debug\net6.0\Demos.pdb
+C:\BootcampGFT\BootcampGFT\04 - Value Types e Reference Types\obj\Debug\net6.0\Demos.csproj.AssemblyReference.cache
+C:\BootcampGFT\BootcampGFT\04 - Value Types e Reference Types\obj\Debug\net6.0\Demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampGFT\BootcampGFT\04 - Value Types e Reference Types\obj\Debug\net6.0\Demos.AssemblyInfoInputs.cache
+C:\BootcampGFT\BootcampGFT\04 - Value Types e Reference Types\obj\Debug\net6.0\Demos.AssemblyInfo.cs
+C:\BootcampGFT\BootcampGFT\04 - Value Types e Reference Types\obj\Debug\net6.0\Demos.csproj.CoreCompileInputs.cache
+C:\BootcampGFT\BootcampGFT\04 - Value Types e Reference Types\obj\Debug\net6.0\Demos.dll
+C:\BootcampGFT\BootcampGFT\04 - Value Types e Reference Types\obj\Debug\net6.0\refint\Demos.dll
+C:\BootcampGFT\BootcampGFT\04 - Value Types e Reference Types\obj\Debug\net6.0\Demos.pdb
+C:\BootcampGFT\BootcampGFT\04 - Value Types e Reference Types\obj\Debug\net6.0\Demos.genruntimeconfig.cache
+C:\BootcampGFT\BootcampGFT\04 - Value Types e Reference Types\obj\Debug\net6.0\ref\Demos.dll

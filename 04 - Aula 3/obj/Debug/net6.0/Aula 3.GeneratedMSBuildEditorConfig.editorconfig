@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Revisao
-build_property.ProjectDir = c:\BootcampGFT\BootcampGFT\03 - Primeiros Passos\Revisao\
+build_property.RootNamespace = Aula_3
+build_property.ProjectDir = C:\BootcampGFT\BootcampGFT\04 - Aula 3\
